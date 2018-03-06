@@ -80,5 +80,8 @@ public static void main(String[] args){
 	Stringallmethods.startwith();
 	System.out.println("charat method as successfully compleated");
 	
+	System.out.println(" successfully done");
+	
+	
 }
 }
